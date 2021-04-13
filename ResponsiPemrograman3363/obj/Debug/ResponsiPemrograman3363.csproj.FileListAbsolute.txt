@@ -1,0 +1,9 @@
+E:\SEMESTER 2 AMIKOM 2021\PEMROGRAMAN\Responsi UTS\Responsi UTS\bin\Debug\Responsi UTS.exe.config
+E:\SEMESTER 2 AMIKOM 2021\PEMROGRAMAN\Responsi UTS\Responsi UTS\bin\Debug\Responsi UTS.exe
+E:\SEMESTER 2 AMIKOM 2021\PEMROGRAMAN\Responsi UTS\Responsi UTS\bin\Debug\Responsi UTS.pdb
+E:\SEMESTER 2 AMIKOM 2021\PEMROGRAMAN\Responsi UTS\Responsi UTS\obj\Debug\ResponsiPemrograman3363.csprojAssemblyReference.cache
+E:\SEMESTER 2 AMIKOM 2021\PEMROGRAMAN\Responsi UTS\Responsi UTS\obj\Debug\Responsi_UTS.Properties.Resources.resources
+E:\SEMESTER 2 AMIKOM 2021\PEMROGRAMAN\Responsi UTS\Responsi UTS\obj\Debug\ResponsiPemrograman3363.csproj.GenerateResource.cache
+E:\SEMESTER 2 AMIKOM 2021\PEMROGRAMAN\Responsi UTS\Responsi UTS\obj\Debug\ResponsiPemrograman3363.csproj.CoreCompileInputs.cache
+E:\SEMESTER 2 AMIKOM 2021\PEMROGRAMAN\Responsi UTS\Responsi UTS\obj\Debug\Responsi UTS.exe
+E:\SEMESTER 2 AMIKOM 2021\PEMROGRAMAN\Responsi UTS\Responsi UTS\obj\Debug\Responsi UTS.pdb
